@@ -1,2 +1,2 @@
-あ# my-first-repo
+# conflict test main
 Week 2 ブランチの練習中！
